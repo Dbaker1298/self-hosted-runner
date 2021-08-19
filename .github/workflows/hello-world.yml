@@ -28,7 +28,3 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
-      
-      # Runs docker hello-world
-      - name: Hello from Docker
-        run: docker run hello-world
